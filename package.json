@@ -1,0 +1,7 @@
+{
+  "name": "excel-report-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "엑셀공작소 월간 보고서 — 구글 시트 실시간 대시보드 (Vercel)"
+}
